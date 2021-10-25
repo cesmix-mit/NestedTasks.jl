@@ -3,6 +3,10 @@ uuid = "132de975-aa6d-4279-a528-a7afda98dde8"
 authors = ["Takafumi Arakaki <aka.tkf@gmail.com> and contributors"]
 version = "0.1.0-DEV"
 
+[deps]
+Preferences = "21216c6a-2e73-6563-6e65-726566657250"
+TapirSchedulers = "38de7e43-46ad-4ee9-b95c-91f351450dcb"
+
 [compat]
 julia = "1"
 
